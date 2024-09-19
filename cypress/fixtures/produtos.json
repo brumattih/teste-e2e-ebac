@@ -1,0 +1,29 @@
+[
+    {
+        "nomeProduto": "Aether Gym Pant",
+        "tamanho": "33",
+        "cor": "Blue",
+        "quantidade": 2
+    },
+
+    {
+        "nomeProduto": "Arcadio Gym Short",
+        "tamanho": "34",
+        "cor": "Black",
+        "quantidade": 1
+    },
+
+    {
+        "nomeProduto": "Orestes Yoga Pant",
+        "tamanho": "33",
+        "cor": "Black",
+        "quantidade": 1
+    },
+
+    {
+        "nomeProduto": "Cronus Yoga Pant",
+        "tamanho": "34",
+        "cor": "Red",
+        "quantidade": 1
+    }
+]
